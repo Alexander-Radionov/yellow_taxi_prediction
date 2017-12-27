@@ -5,7 +5,7 @@ channels:
 
 dependencies:
   - xarray==0.10.0
-  - python==3.6.2
+  - python
   - holoviews==1.9.2
   - geoviews
   - numpy==1.13.1
