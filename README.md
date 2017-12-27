@@ -25,7 +25,7 @@
 Дополнительно для выполнения демо:
 * [xarray](http://xarray.pydata.org/en/stable/) (версия 0.10.0)
 * [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/) (версия 7.0.0)
-* [holoviews](http://holoviews.org/) (версия 1.9.2-x-g94abb1bdb)
+* [holoviews](http://holoviews.org/) (версия 1.9.2)
 * [geoviews](http://geo.holoviews.org/) (версия 1.4.2)
 * [geopandas](http://geopandas.org/) (версия 0.3.0)
 
