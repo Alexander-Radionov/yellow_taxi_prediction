@@ -13,20 +13,21 @@
 * April
 * May
 * June
+
 Для запуска кода файлы необходимо положить в **папку Data**
 
 ## Библиотеки
 Для выполнения кода (кроме демо) понадобится установка следующих библиотек:
-* [pandas](https://pandas.pydata.org/) (version 0.20.3)
-* [numpy](http://www.numpy.org/) (version 1.13.1)
-* [sklearn](http://scikit-learn.org/stable/) (version 0.19.0)
+* [pandas](https://pandas.pydata.org/) (версия 0.20.3)
+* [numpy](http://www.numpy.org/) (версия 1.13.1)
+* [scikit-learn](http://scikit-learn.org/stable/) (версия 0.19.0)
 
 Дополнительно для выполнения демо:
-* [xarray](http://xarray.pydata.org/en/stable/) (version 0.10.0)
-* [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/)
-* [holoviews](http://holoviews.org/) (version 1.9.2-x-g94abb1bdb)
-* [geoviews](http://geo.holoviews.org/) (version 1.4.2)
-* [geopandas](http://geopandas.org/) (version 0.3.0)
+* [xarray](http://xarray.pydata.org/en/stable/) (версия 0.10.0)
+* [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/) (версия 7.0.0)
+* [holoviews](http://holoviews.org/) (версия 1.9.2-x-g94abb1bdb)
+* [geoviews](http://geo.holoviews.org/) (версия 1.4.2)
+* [geopandas](http://geopandas.org/) (версия 0.3.0)
 
 Консольные команды для установки можно получить на anaconda.org. Проще всего - при помощи поискового запроса "conda libName", где libName - имя библиотеки.
 
